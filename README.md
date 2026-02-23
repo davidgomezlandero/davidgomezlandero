@@ -44,7 +44,7 @@ A production-grade full-stack Pong game with real-time multiplayer, live chat, t
 - ✅ Deployed AI-powered game opponents (4 difficulty levels with spin/counter-spin mechanics)
 - ✅ Implemented blockchain tournament registry using Solidity smart contracts on Avalanche testnet
 
-📖 [→ Explore Full Documentation](./common_core/rank6/ft_transcendence/README.md)
+📖 [→ Explore Full Documentation](https://github.com/davidgomezlandero/common_core/tree/main/rank6/ft_transcendence)
 
 ---
 
@@ -70,7 +70,7 @@ Implemented a linear regression algorithm **from scratch** to predict used car p
 
 **Dataset:** 24 car records | **Algorithm:** Gradient Descent + MSE Loss
 
-📖 [→ View Project Details](./Ai-DataScience/ft_linear_regression/README.md)
+📖 [→ View Project Details](https://github.com/davidgomezlandero/Ai-DataScience/tree/main/ft_linear_regression)
 
 ---
 
@@ -91,7 +91,7 @@ Built a logistic regression classifier **from scratch** to classify Hogwarts stu
 
 **Dataset:** 1,600 training + 400 test records | **Performance:** 98-99% accuracy
 
-📖 [→ View Project Details](./Ai-DataScience/dslr/README.md)
+📖 [→ View Project Details](https://github.com/davidgomezlandero/Ai-DataScience/tree/main/dslr)
 
 ---
 
@@ -108,7 +108,7 @@ Developing a neural network **from scratch** for binary classification of breast
 
 **Current Phase:** Foundation & data preprocessing
 
-📖 [→ View Project Details](./Ai-DataScience/multilayer_perceptron/README.md)
+📖 [→ View Project Details](https://github.com/davidgomezlandero/Ai-DataScience/tree/main/multilayer_perceptron)
 
 ---
 
@@ -131,7 +131,7 @@ Architecting a scalable photo-sharing web application applying professional back
 - 🔄 CI/CD-ready workflows for AWS deployment
 - 🛡️ CORS, environment management, and NGINX reverse proxy
 
-📖 [→ View Project Details](./camagru/README.md)
+📖 [→ View Project Details](https://github.com/davidgomezlandero/camagru)
 
 ---
 
@@ -246,7 +246,7 @@ cd davidgomezlandero
 ```bash
 cd common_core/rank6/ft_transcendence
 docker-compose up
-# Access at https://localhost:2323
+# Access at https://localhost:8443
 ```
 
 **Machine Learning**
